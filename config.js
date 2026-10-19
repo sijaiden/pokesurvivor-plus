@@ -22,6 +22,7 @@
  *   databaseURL: 'https://my-pokesurvivor-default-rtdb.asia-southeast1.firebasedatabase.app'
  * };
  */
+ ```js
 window.PS_FIREBASE = null; {
 apiKey: "AIzaSyB4hT7znKvb_dHIRz8EFG-6FF9CoXSpo08",
   authDomain: "my-pokesurvivor.firebaseapp.com",
