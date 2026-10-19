@@ -19,7 +19,17 @@
  *   storageBucket: 'your-project.firebasestorage.app',
  *   messagingSenderId: '1234567890',
  *   appId: '1:1234567890:web:abc123',
- *   databaseURL: 'https://your-project-default-rtdb.europe-west1.firebasedatabase.app'
+ *   databaseURL: 'https://my-pokesurvivor-default-rtdb.asia-southeast1.firebasedatabase.app'
  * };
  */
-window.PS_FIREBASE = null;
+window.PS_FIREBASE = null; {
+apiKey: "AIzaSyB4hT7znKvb_dHIRz8EFG-6FF9CoXSpo08",
+  authDomain: "my-pokesurvivor.firebaseapp.com",
+  projectId: "my-pokesurvivor",
+  storageBucket: "my-pokesurvivor.firebasestorage.app",
+  messagingSenderId: "531267927014",
+  appId: "1:531267927014:web:bf20609125a337f757b427",
+  measurementId: "G-YBQLBQ3Y4S"
+  databaseulr: 'https://my-pokesurvivor-default-rtdb.asia-southeast1.firebasedatabase.app/'
+ };
+   ```
