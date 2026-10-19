@@ -31,6 +31,6 @@ apiKey: "AIzaSyB4hT7znKvb_dHIRz8EFG-6FF9CoXSpo08",
   messagingSenderId: "531267927014",
   appId: "1:531267927014:web:bf20609125a337f757b427",
   measurementId: "G-YBQLBQ3Y4S"
-  databaseulr: 'https://my-pokesurvivor-default-rtdb.asia-southeast1.firebasedatabase.app/'
+  databaseurl: 'https://my-pokesurvivor-default-rtdb.asia-southeast1.firebasedatabase.app/'
  };
    ```
